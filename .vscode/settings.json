@@ -1,0 +1,11 @@
+{
+    "as3mxml.sdk.framework": "c:\\AIR\\AIR_SDK_50_2",
+    "as3mxml.asconfigc.jvmargs": "-Xms512M -Xmx1G",
+    "as3mxml.asconfigc.verboseOutput": true,
+    "as3mxml.codeGeneration.getterSetter.forcePublicFunctions": true,
+	"as3mxml.sources.organizeImports.insertNewLineBetweenTopLevelPackages": false,
+	"files.trimTrailingWhitespace": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit"
+	}
+}

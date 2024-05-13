@@ -1,0 +1,26 @@
+{
+	"config": "air",
+	"mainClass": "Main",
+	"compilerOptions": {
+		"advanced-telemetry": true,
+		"output": "bin/AIR-Scaffold.swf",
+		"library-path": [],
+		"source-path": [
+			"src"
+		],
+		"default-size": {
+			"width": 1200,
+			"height": 800
+		}
+	},
+	"application": "application.xml",
+	"files": [
+		"src/Main.as"
+	],
+	"airOptions": {
+		"windows": {
+			"target": "native",
+			"output": "bin/Main.exe"
+		}
+	}
+}
